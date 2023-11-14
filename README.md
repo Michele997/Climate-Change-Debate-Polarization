@@ -1,5 +1,5 @@
 # Climate-Change-Debate-Polarization
-This repository contains the dataset used in our research paper "How Deep is the Divide? A Framework for Evaluating Polarization in Online Social Platforms." The dataset is a comprehensive collection of tweets on climate change topic and their related information.
+This repository contains the dataset used in our research paper "How Deep is the Divide? A Framework for Evaluating Polarization in Online Social Platforms." This dataset is a subset of the dataset obtained through the Hydration process of 'The Climate Change Twitter Dataset' (Effrosynidis et al., 2022). The dataset is a comprehensive collection of tweets on climate change topic and their related information.
 
 ## Dataset Description
 The dataset is divided into six parts due to file size constraints. Each part is a CSV file that includes a subset of the entire dataset. The data consists of a collection of tweets and their associated metadata. The following fields are included for each tweet:
