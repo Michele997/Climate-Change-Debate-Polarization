@@ -13,9 +13,9 @@ The dataset is divided into six parts due to file size constraints. Each part is
 - *retweet_count*: The number of times this tweet was retweeted.
 - *favorite_count*: The number of times this tweet was marked as favorite.
 - *topic*: The topic of the tweet.
-- *sentiment*: The sentiment of the tweet (positive, negative, neutral).
+- *sentiment*: The sentiment of the tweet.
 - *stance*: The stance of the tweet regarding the topic.
-- *gender*: The gender of the tweet's author (if available).
+- *gender*: The gender of the tweet's author.
 - *aggressiveness*: A measure of the aggressiveness of the tweet's language.
 
 ## Citation
